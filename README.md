@@ -20,7 +20,7 @@
     6. Problem-solving & troubleshooting
 
     - *Areas of improvement*
-    1.Technical communication
+    1. Technical communication
     2. Salesforce Developer skills (e.g. Salesforce-Specific JavaScript & Apex Fundaments)
     3. Architect Skills(e.g.Scalability, Solution design principles & Integration patterns)
 
@@ -62,6 +62,7 @@
   <BR>
 
    To advance toward a Technical Architect role, I recognize the need to deepen my coding proficiency in Apex and Javascrpt, master Salesforce integration patterns, and gain hands-on experience with system architecture and cross-cloud solutions. Exploring real-world project work, certifications like Platform Developer II and Integration Architecture Designer, and mentorship from seasoned architects will help bridge those gaps.
+
 ---
 
 ### Part 3: SMART Career Goals
@@ -96,7 +97,7 @@
 
   **Long-Term Goal 1:  Become a Salesforce Technical Architect**
    Actions: 
-  1- Master core development skills: Gain advanced proficiency in Apex, Lightning Web Components (LWC), SOQL, and API integrations.
+   - Master core development skills: Gain advanced proficiency in Apex, Lightning Web Components (LWC), SOQL, and API integrations.
 
    2. Earn relevant certifications: Progress through Platform Developer I & II, Integration Architecture Designer, Data Architecture, and eventually the Certified Technical Architect (CTA).
 
